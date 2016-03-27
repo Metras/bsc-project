@@ -1,0 +1,1 @@
+BCS is the cloud-driven evolution of the jSeduite project. jSeduite is used since 5 years in several academic institutions. The BSC project generalize the product, and rely on the "cloud" to externalize the broadcasting process.
